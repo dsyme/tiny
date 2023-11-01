@@ -1,8 +1,9 @@
 #include <stdio.h>
 
+/** This is the entry point */
 int main() {
 
-  int n, j, flag = 0;
+  int n, i, flag = 0;
   printf("Enter a positive integer: ");
   scanf("%d", &n);
 
