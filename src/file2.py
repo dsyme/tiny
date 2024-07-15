@@ -1,1 +1,1 @@
-print("goodbye world")
+print("auf wiedersehen welt")

@@ -1,1 +1,1 @@
-print("goodbye you")
+print("auf wiedersehen du")

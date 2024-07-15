@@ -1,1 +1,1 @@
-print("we're done")
+print("wir sind fertig")
