@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/** This is the entry point */
 int main() {
 
   int n, i, flag = 0;
